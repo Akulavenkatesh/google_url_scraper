@@ -10,7 +10,9 @@ Inside the script in the place the keywords enter your own keywords.
 
 I'm using inbuilt python Google Search module. The URL's of the wikipedia pages will be output to the python console
 
-You can continuously ping Google and extract search results of 100 keywords without getting blocked. 
+You can continuously ping Google and extract search results of 100 keywords without getting blocked. Post this limit
+Google server stops responding to the script thus you get an error in the console.
+
 I'm using a data card, so I will disconnect and reconnect to internet (new IP) again after extracting search results for 100 keywords.
 
 If you are using a router just restart it.

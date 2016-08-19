@@ -6,7 +6,7 @@ you want to find the wikipedia pages of Personalities, Celbrities, Sports person
 I'm resticting Google to show only wikipedia pages URL's by giving this "site:en.wikipedia.org/wiki/" rule while 
 searching Google. Modify the url as per your needs.
 
-Inside the script in the place the keywords enter your own keywords.
+Inside the script in the place of keywords enter your own keywords.
 
 I'm using inbuilt python Google Search module. The URL's of the wikipedia pages will be output to the python console
 
